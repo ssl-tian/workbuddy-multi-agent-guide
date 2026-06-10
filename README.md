@@ -39,7 +39,7 @@ workbuddy-multi-agent-guide/
 
 ## 作者
 
-**Song (@ssl-tian)** — 精神科住院医/硕博连读，NHANES 因果推断研究者。用 WorkBuddy 从零搭建了多 Agent 审稿流水线。
+**Song (@ssl-tian)** — 精神科住院医。用 WorkBuddy 从零搭建了多 Agent 审稿流水线。
 
 ## 许可
 
