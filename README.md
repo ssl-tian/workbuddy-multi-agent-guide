@@ -26,7 +26,12 @@ workbuddy-multi-agent-guide/
 ├── pipeline_state.yaml                 # 项目状态管理模板
 └── examples/                           # 案例（建设中）
     └── aud-mdd-review/                 # AUD-MDD 共病研究案例
+└── psychiatry-daily-automation/   # 精神科规培每日自动化
 ```
+
+## 案例
+
+- 📚 精神科规培每日自动化 — 真实运行的 20 天 prompt 案例 → [](./examples/psychiatry-daily-automation/)
 
 ## 适用场景
 
